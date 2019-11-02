@@ -43,9 +43,13 @@ Zusammenfassend lässt sich schließen, dass durch angewandtes Wissensmanagement
 ## Quellen:
 
 Kissel, K. (2019). Wissensmanagement im digitalen Zeitalter. w i r t s c h a f t + weiterbildung. 06_2019, 30-33.
+
 Lämmel, U. (2016). IT-basiertes Wissensmanagement, Wismarer Diskussionspapiere, No. 03/2016.
+
 North, K., Maier, R. (2019). Wissensmanagement für Industrie 4.0, Herausforderungen und Lösungsansätze. Industrie 4.0 Management. 35 (2019) 2, 7 - 12.
+
 Schäfer-Jugel, A. , Hanik, M., Weiss, M. (2009). Wettbewerbsvorteile durch Wissensmanagement. P h a r m . I n d . 71 Nr. 5, 870–873.
+
 Stephan, S., Hedfeld, P. (2019). Wissensmanagement – worauf es ankommt. wissensmanag e ment . 4/2019, S.24-26.
 
-[Link](https://helengrolle.github.io/)
+[Cologne Business School](https://cbs.de/)
