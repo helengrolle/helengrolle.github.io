@@ -24,7 +24,7 @@ Um diesen Aufwand zu rechtfertigen, muss Wissensmanagement Vorteile bieten. Zu B
 
 ### „Wissensmanagement ist ein fortlaufendes Projekt (bzw. ein permanenter Prozess)“
 
-#### (Quelle: Kissel (2019): S32.)
+Quelle: Kissel (2019): S32.
 
 Und an genau diesem Punkt setzt das Wissensmanagement an. Es sammelt Daten und Informationen, wertet sie aus, strukturiert sie und macht sie komprimiert nutzbar. Darauf aufbauend ist es die Aufgabe von Wissensmanagement dieses gebündelte Wissen zum richtigen Zeitpunkt am richtigen Ort als Ressource zur Verfügung zu stellen.^13 Um diese Ressource aktuell zu halten ist es notwendig, nicht nur das Wissen, sondern auch die Art der Wissensweitergabe stets zu hinterfragen und an die Komplexität der Betriebe anzupassen.^14
 Im Fokus der Betrachtungen steht weitgehend der Faktor Mensch, welcher maßgeblich für den Erfolg von Wissensmanagement verantwortlich ist.^15 Dabei ist es grundsätzlich notwendig, dass die Mitarbeiter motiviert werden und bereit sind Wissen zu teilen. Der Grundstock an Wissen liegt in den Köpfen dieser und muss kontinuierlich aktualisiert werden. Hier grenzt der Umgang mit Wissensmanagement bereits an den Bereich des Change Managements.
