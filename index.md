@@ -1,9 +1,9 @@
-# Wissensmanagment:
+# Wissensmanagement:
 
 ## Wissen als Ressource im betrieblichen Kontext
 
 „Ich weiß, dass ich nichts weiß“ sagte schon Sokrates. Mit der Schnelllebigkeit und Fülle der heutigen Informationen und Veränderungen, ist diese Aussage vielleicht noch deutlicher nachvollziehbar, wenn auch in einem leicht gewandelten Kontext. Als Mensch muss man einsehen, dass die eigene Kapazität, Wissen aufzunehmen begrenzt ist. Doch sowohl für ein Individuum, als auch für einen wirtschaftlich agierenden Betrieb gilt, dass „Eine Investition in Wissen […] noch immer die besten Zinsen [bringt].“ (Benjamin Franklin)
-Wissen muss hier als Ressource gesehen werden, die genau wie jede andere Ressource zur richtigen Zeit, in der richtigen Menge oder Ausprägung am richtigen Ort oder eben im richtigen Kopf vorhanden sein muss. Die Vielfalt und Menge an Know-How bedeutet im Endeffekt, wie effektiv ein Betrieb sein kann.^1 Um das Wissen effizient zu nutzen, gilt es, komplexe Informationen mithilfe von Wissensmanagement zu sammeln, zu organisieren und zu verbreiten.^{2} Ziel dieser Ausarbeitung ist es, dem Leser die Themen Wissen und Wissensmanagement näher zu bringen und die Notwendigkeit und die Vorteile von Wissensmanagement darzulegen. Was ist also Wissen und wozu braucht man Wissensmanagement im betrieblichen Kontext?
+Wissen muss hier als Ressource gesehen werden, die genau wie jede andere Ressource zur richtigen Zeit, in der richtigen Menge oder Ausprägung am richtigen Ort oder eben im richtigen Kopf vorhanden sein muss. Die Vielfalt und Menge an Know-How bedeutet im Endeffekt, wie effektiv ein Betrieb sein kann.^1 Um das Wissen effizient zu nutzen, gilt es, komplexe Informationen mithilfe von Wissensmanagement zu sammeln, zu organisieren und zu verbreiten.^2 Ziel dieser Ausarbeitung ist es, dem Leser die Themen Wissen und Wissensmanagement näher zu bringen und die Notwendigkeit und die Vorteile von Wissensmanagement darzulegen. Was ist also Wissen und wozu braucht man Wissensmanagement im betrieblichen Kontext?
 
 ![Die Wissenstreppe nach North](02.jpg)
 Abbildung 1 : Die Wissenstreppe nach North (Quelle: Vgl. North, Maier (2019): S.8)
@@ -33,13 +33,33 @@ Aber auch die Medien- und IT-Lösungen gewinnen im digitalen Zeitalter immer meh
 1. Intranetlösungen bzw. Sharepoint-Lösungen → Allen, alle Informationen online zur Verfügung stellen.
 2. Semantische Technologie → Verknüpfung von Daten und Informationen, also sinnvoll und kausal zusammenhängendes Wissen zur Verfügung stellen.
 3. Data Mining- und KIAnwendungen → Auf kollektiven Daten aufbauen und durch gelehrte KI neues Wissen erzeugen, also neues Wissen zur Verfügung stellen.^17
-   Ein weiterer Schritt dieser Entwicklung von Wissensmanagement ist es, eben dieses genannte Wissen nicht nur für Menschen, sondern auch für Maschinen verständlich zu machen, und sie autonom mit dem Wissen handeln zu lassen. Damit können sie die Mitarbeiter bestmöglich unterstützen und die Prozesse noch effizienter gestalten.^18
+
+Ein weiterer Schritt dieser Entwicklung von Wissensmanagement ist es, eben dieses genannte Wissen nicht nur für Menschen, sondern auch für Maschinen verständlich zu machen, und sie autonom mit dem Wissen handeln zu lassen. Damit können sie die Mitarbeiter bestmöglich unterstützen und die Prozesse noch effizienter gestalten.^18
 
 ### Durch Wissensmanagement entsteht Wettbewerbsvorteil
 
 Zusammenfassend lässt sich schließen, dass durch angewandtes Wissensmanagement und dessen kontinuierliche Anpassung, ein klarer Wettbewerbsvorteil für Unternehmen entsteht. Um jetzt nochmal auf das Zitat von Benjamin Franklin zurückzukommen, ist das Management von Wissen im betrieblichen Kontext zwar investitionsintensiv, trägt aber maßgeblich zum Erfolg eines Unternehmens bei. Zudem kann man durch die Nutzung von IT-Lösungen die Ressource Wissen um ein Vielfaches erweitern und so auch die Chance auf mehr wirtschaftlichen Erfolg erhöhen. Letztendlich ist Wissensmanagement in der heutigen Zeit ein Muss, um das Gesamtwissen eines Unternehmens nicht schrittweise zu verlieren und es entsprechend der Schnelllebigkeit von Informationen gekonnt zu entwickeln.
 
-### Fußnoten
+### Fußnoten:
+
+1 Vgl. Kissel (2019): S.30.
+2 Vgl. Lämmel (2016): S.4.
+3 Vgl. Lämmel (2016): S.7-10.
+4 Vgl. North, Maier (2019): S.8.
+5 Vgl. Kissel (2019): S.30-31.
+6 Vgl. Kissel (2019): S.30-31.
+7 Vgl. Stephan, Hedfeld (2019): S.25.
+8 Vgl. Kissel (2019): S.32.
+9 Vgl. Kissel (2019): S.31.
+10 Vgl. Schäfer-Jugel et al. (2009): S.870.
+11 Vgl. Kissel (2019): S.32.
+12 Vgl. Stephan, Hedfeld (2019): S.25-26.
+13 Vgl. Stephan, Hedfeld (2019): S.24.
+14 Vgl. Stephan, Hedfeld (2019): S.24.
+15 Vgl. Stephan, Hedfeld (2019): S.26.
+16 Vgl. Schäfer-Jugel et al. (2009): S.870.
+17 Vgl. Lämmel (2016): S.19-21.
+18 Vgl. Schäfer-Jugel et al. (2009): S.870-871.
 
 ## Quellen:
 
