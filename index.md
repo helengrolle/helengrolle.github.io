@@ -5,12 +5,12 @@
 „Ich weiß, dass ich nichts weiß“ sagte schon Sokrates. Mit der Schnelllebigkeit und Fülle der heutigen Informationen und Veränderungen, ist diese Aussage vielleicht noch deutlicher nachvollziehbar, wenn auch in einem leicht gewandelten Kontext. Als Mensch muss man einsehen, dass die eigene Kapazität, Wissen aufzunehmen begrenzt ist. Doch sowohl für ein Individuum, als auch für einen wirtschaftlich agierenden Betrieb gilt, dass „Eine Investition in Wissen […] noch immer die besten Zinsen [bringt].“ (Benjamin Franklin)
 Wissen muss hier als Ressource gesehen werden, die genau wie jede andere Ressource zur richtigen Zeit, in der richtigen Menge oder Ausprägung am richtigen Ort oder eben im richtigen Kopf vorhanden sein muss. Die Vielfalt und Menge an Know-How bedeutet im Endeffekt, wie effektiv ein Betrieb sein kann.^1 Um das Wissen effizient zu nutzen, gilt es, komplexe Informationen mithilfe von Wissensmanagement zu sammeln, zu organisieren und zu verbreiten.^2 Ziel dieser Ausarbeitung ist es, dem Leser die Themen Wissen und Wissensmanagement näher zu bringen und die Notwendigkeit und die Vorteile von Wissensmanagement darzulegen. Was ist also Wissen und wozu braucht man Wissensmanagement im betrieblichen Kontext?
 
-![Die Wissenstreppe nach North](02.jpg)
-Abbildung 1 : Die Wissenstreppe nach North (Quelle: Vgl. North, Maier (2019): S.8)
-
 ### Was ist überhaupt Wissen?!
 
 Zunächst muss aber geklärt werden, was wir unter Wissen verstehen. Das Wort an sich wird häufig verwendet, ohne sich Gedanken zu machen, was genau es ausdrückt und wie es abzugrenzen ist.^3 In diesem Text wird Wissen aufbauend auf der Wissenstreppe von North (s. Abb. 1) definiert.^4 Sie besagt bspw., wie in der Abbildung nachzuvollziehen, dass Informationen durch Vernetzung mit anderen Informationen, Erfahrungen oder Erwartungen zu Wissen werden. Die Treppe reicht von Symbolen bis zur Wettbewerbsfähigkeit und stellt dar, wie über mehrere Stufen Symbole zu Wissen und Wissen über eine Kompetenz zur Wettbewerbsfähigkeit entwickelt werden.
+
+![Die Wissenstreppe nach North](02.jpg)
+Abbildung 1 : Die Wissenstreppe nach North (Quelle: Vgl. North, Maier (2019): S.8)
 
 Außerdem wird zwischen implizitem und explizitem Wissen separiert. Explizites Wissen lässt sich dokumentieren, es ist sachbezogen und kann über Methodik und Sprache vermittelt werden, wie z.B. ein bestimmter Arbeitsablauf.^5 Implizites Wissen dagegen, ist Know-How, welches aufgrund von Erfahrungen und Emotionen erlernt wird und nicht unmittelbar logisch erscheint. Man handelt bspw. unbestimmt intuitiv.^6
 
