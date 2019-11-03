@@ -43,22 +43,39 @@ Zusammenfassend lässt sich schließen, dass durch angewandtes Wissensmanagement
 ### Fußnoten:
 
 1 Vgl. Kissel (2019): S.30.
+
 2 Vgl. Lämmel (2016): S.4.
+
 3 Vgl. Lämmel (2016): S.7-10.
+
 4 Vgl. North, Maier (2019): S.8.
+
 5 Vgl. Kissel (2019): S.30-31.
+
 6 Vgl. Kissel (2019): S.30-31.
+
 7 Vgl. Stephan, Hedfeld (2019): S.25.
+
 8 Vgl. Kissel (2019): S.32.
+
 9 Vgl. Kissel (2019): S.31.
+
 10 Vgl. Schäfer-Jugel et al. (2009): S.870.
+
 11 Vgl. Kissel (2019): S.32.
+
 12 Vgl. Stephan, Hedfeld (2019): S.25-26.
+
 13 Vgl. Stephan, Hedfeld (2019): S.24.
+
 14 Vgl. Stephan, Hedfeld (2019): S.24.
+
 15 Vgl. Stephan, Hedfeld (2019): S.26.
+
 16 Vgl. Schäfer-Jugel et al. (2009): S.870.
+
 17 Vgl. Lämmel (2016): S.19-21.
+
 18 Vgl. Schäfer-Jugel et al. (2009): S.870-871.
 
 ## Quellen:
