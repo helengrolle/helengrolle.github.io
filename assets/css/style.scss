@@ -3,22 +3,16 @@
 
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Karla&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Karla|Montserrat&display=swap");
 
 body {
   font-family: "Karla";
-  color: #075518;
+  color: #075518 text-align justify;
 }
 
-h1 {
-  font-family: "Montserrat";
-  color: #ffffff;
-}
+h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
   font-family: "Montserrat";
   color: #01154e;
 }
