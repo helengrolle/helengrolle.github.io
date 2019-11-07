@@ -7,16 +7,31 @@
 
 body {
   font-family: "Karla";
-  color: #075518 text-align justify;
+  color: #075518;
+  text-align: justify;
 }
 
-h1 {
+.project-name {
   font-family: "Montserrat";
   color: #ffffff;
 }
 
-h2,
-h3 {
+.project-tagline {
+  font-family: "Montserrat";
+  color: #01154e;
+}
+
+.main-content h1 {
+  font-family: "Montserrat";
+  color: #ffffff;
+}
+
+.main-content h2 {
+  font-family: "Montserrat";
+  color: #ffffff;
+}
+
+.main-content h3 {
   font-family: "Montserrat";
   color: #01154e;
 }
